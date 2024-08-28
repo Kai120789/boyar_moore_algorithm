@@ -1,0 +1,15 @@
+C:\Users\dnspo\source\repos\boyer_moore_algoritm\boyer_moore_algoritm\bin\Debug\net8.0\boyer_moore_algoritm.exe
+C:\Users\dnspo\source\repos\boyer_moore_algoritm\boyer_moore_algoritm\bin\Debug\net8.0\boyer_moore_algoritm.deps.json
+C:\Users\dnspo\source\repos\boyer_moore_algoritm\boyer_moore_algoritm\bin\Debug\net8.0\boyer_moore_algoritm.runtimeconfig.json
+C:\Users\dnspo\source\repos\boyer_moore_algoritm\boyer_moore_algoritm\bin\Debug\net8.0\boyer_moore_algoritm.dll
+C:\Users\dnspo\source\repos\boyer_moore_algoritm\boyer_moore_algoritm\bin\Debug\net8.0\boyer_moore_algoritm.pdb
+C:\Users\dnspo\source\repos\boyer_moore_algoritm\boyer_moore_algoritm\obj\Debug\net8.0\boyer_moore_algoritm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dnspo\source\repos\boyer_moore_algoritm\boyer_moore_algoritm\obj\Debug\net8.0\boyer_moore_algoritm.AssemblyInfoInputs.cache
+C:\Users\dnspo\source\repos\boyer_moore_algoritm\boyer_moore_algoritm\obj\Debug\net8.0\boyer_moore_algoritm.AssemblyInfo.cs
+C:\Users\dnspo\source\repos\boyer_moore_algoritm\boyer_moore_algoritm\obj\Debug\net8.0\boyer_moore_algoritm.csproj.CoreCompileInputs.cache
+C:\Users\dnspo\source\repos\boyer_moore_algoritm\boyer_moore_algoritm\obj\Debug\net8.0\boyer_moore_algoritm.sourcelink.json
+C:\Users\dnspo\source\repos\boyer_moore_algoritm\boyer_moore_algoritm\obj\Debug\net8.0\boyer_moore_algoritm.dll
+C:\Users\dnspo\source\repos\boyer_moore_algoritm\boyer_moore_algoritm\obj\Debug\net8.0\refint\boyer_moore_algoritm.dll
+C:\Users\dnspo\source\repos\boyer_moore_algoritm\boyer_moore_algoritm\obj\Debug\net8.0\boyer_moore_algoritm.pdb
+C:\Users\dnspo\source\repos\boyer_moore_algoritm\boyer_moore_algoritm\obj\Debug\net8.0\boyer_moore_algoritm.genruntimeconfig.cache
+C:\Users\dnspo\source\repos\boyer_moore_algoritm\boyer_moore_algoritm\obj\Debug\net8.0\ref\boyer_moore_algoritm.dll

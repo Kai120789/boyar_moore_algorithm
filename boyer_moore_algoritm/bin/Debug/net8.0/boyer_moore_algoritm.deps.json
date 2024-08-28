@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "boyer_moore_algoritm/1.0.0": {
+        "runtime": {
+          "boyer_moore_algoritm.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "boyer_moore_algoritm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
